@@ -1,3 +1,3 @@
-# Momentum Clon with VanillaJS
+# Momentum Clone with VanillaJS
 
 come on
